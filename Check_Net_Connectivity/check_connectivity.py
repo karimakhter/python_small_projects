@@ -1,7 +1,6 @@
 import requests
 from requests.exceptions import ConnectionError
 
-
 def internet_connection_test():
     url = 'https://www.google.com/'
     print(f'Attempting to connect {url} to determine internet connection status.')
