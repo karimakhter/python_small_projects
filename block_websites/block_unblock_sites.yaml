@@ -1,0 +1,15 @@
+---
+TO_BLOCK :
+        - "wwww.facebook.com"
+        - "ww,kak.net"
+        - "www.tst.dat"
+        - "ww.hm.net"
+
+TO_DELETE :
+        - "www.locl.net"
+        - "www.yahoo.com"
+        - "www.db.com"
+        - "www.facebook.com"
+        - "facebook.com"
+
+FILE : "/etc/hosts"

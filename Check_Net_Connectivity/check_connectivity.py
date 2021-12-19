@@ -17,7 +17,7 @@ def internet_connection_test():
         print(f'Failed to connect to {url}.')
         return False
     except:
-        print(f'Failed with unparsed reason.')
+        print(f'Failed with unsparsed reason.')
         return False
 
 
