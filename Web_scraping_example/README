@@ -1,0 +1,2 @@
+A simple webscrapping  example which extract data from an html page and prints the data
+This example use BeautifulSoup library and lxml parser,
